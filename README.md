@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">Recent Computer Science graduate passionate about exploring the realms of coding. Building real-world projects and sharpening DSA skills every day.</h3>
+<h3 align="center">Recent Computer Science graduate passionate about exploring the realms of coding.</h3>
+
+- 🔭 I’m currently working on **Full-Stack Web Applications, Solving DSA**
+
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 How to reach me **princezk519@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-8b156a261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-8b156a261/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
